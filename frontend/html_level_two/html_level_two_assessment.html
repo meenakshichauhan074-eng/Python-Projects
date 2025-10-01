@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Assessment</title>
+</head>
+
+<body>
+    <h1>Course Sign Up Page</h1>
+    <p>Please Note: First Name,Last Name,Password, and Email are required.</p>
+    <form action="html_level_two_assessment2.html" method="get">
+        <label for="firstName"> First Name:</label>
+        <input type="text" name="firstname" placeholder="First Name" required>
+
+        <label for="lastName"> Last Name:</label>
+        <input type="text" name="lastName" placeholder="Last Name" required>
+
+        <label for="email"> Email: </label>
+        <input type="email" name="email" placeholder="name@email.com" required>
+
+        <label for="Password"> Password: </label>
+        <input type="password" name="password" required>
+
+        <p>Are you over the age of 18?</p>
+        <label for="yes">Yes</label>
+        <input type="radio" name="age" value="Yes">
+
+        <label for="no">No</label>
+        <input type="radio" name="age" value="No">
+
+        <p>Do you have a credit card or paypal?</p>
+        <select name="payment" id="">
+            <option value="credit-card">Credit Card</option>
+            <option value="Paypal">Paypal</option>
+        </select>
+
+        <input type="submit" value="Sign Up">
+
+    </form>
+</body>
+
+</html>

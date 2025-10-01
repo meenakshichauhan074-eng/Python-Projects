@@ -1,0 +1,24 @@
+/* Comment */
+/* selected tag{
+    property: value;
+} */
+
+h1 {
+    color: red;
+}
+
+li {
+    color: rgb(20, 193, 227);
+}
+
+p {
+    /* hex code */
+    color: #06021f;
+}
+
+h4 {
+    /* rgba(red,gree,blue,alpha(opaque and transparent)) */
+    color: rgba(255, 97, 0, 0.5)
+}
+
+/* comment */

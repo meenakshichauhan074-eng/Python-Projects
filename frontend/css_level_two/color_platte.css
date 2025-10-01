@@ -1,0 +1,43 @@
+h1 {
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+#top-heading {
+    text-align: center;
+}
+
+#one {
+    border: 1px solid #0D1B1E;
+    padding: 80px 30px 80px 30px;
+    background: #0D1B1E;
+}
+
+#two {
+    border: 1px solid #7798AB;
+    padding: 80px 30px 80px 30px;
+    background: #7798AB;
+}
+
+#three {
+    border: 1px solid #C3DBC5;
+    padding: 80px 30px 80px 30px;
+    background: #C3DBC5;
+}
+
+#four {
+    border: 1px solid #E8DCB9;
+    padding: 80px 30px 80px 30px;
+    background: #E8DCB9;
+}
+
+#five {
+    border: 1px solid #F2CEE6;
+    padding: 80px 30px 80px 30px;
+    background: #F2CEE6;
+}
+
+table {
+    margin: auto;
+}

@@ -1,0 +1,12 @@
+# To start the development server 
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+python manage.py runserver
+
+# How to stop development server 
+
+# for creating new project in django
+python -m django startproject ProTwo
+
+# For creating new app inside a project folder
+python manage.py startapp appTwo

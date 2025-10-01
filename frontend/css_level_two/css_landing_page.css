@@ -1,0 +1,51 @@
+body {
+    background: black;
+    border-right: 80px solid lightseagreen;
+    border-left: 80px solid lightseagreen;
+    border-bottom: 80px solid lightseagreen;
+}
+
+.heading {
+    color: #fff;
+    text-align: center;
+}
+
+.sub-heading {
+    color: #fff;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+p {
+    color: #fff;
+    text-align: center;
+}
+
+.form-heading {
+    color: #fff;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+label {
+    color: #fff;
+}
+
+form {
+    text-align: center;
+}
+
+input[type="text"] {
+    height: 30px;
+}
+
+input[type="email"] {
+    height: 30px;
+}
+
+.submit-btn {
+    background-color: orangered;
+    padding: 10px;
+    border-radius: 10px;
+}

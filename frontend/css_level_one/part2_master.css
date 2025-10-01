@@ -1,0 +1,19 @@
+body {
+    background: url('beach.jpg');
+    background-repeat: repeat;
+}
+
+div {
+    background: red;
+    border-color: blue;
+    border-width: 5px;
+    border-style: double;
+}
+
+p {
+    color: yellow;
+}
+
+span {
+    color: black;
+}
